@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Manav Gupta
 - 👀 I’m interested in web development and competitve programming
 - 🌱 I’m currently working on my MERN skills
-- 💞️ I’m looking to collaborate on MERN projects
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 Mail me at 201390@juitsolan.in
+- 💻 Website https://manavgupta27.netlify.app/
 
 <!---
 manav-g27/manav-g27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
