@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and competitve programming
 - 🌱 I’m currently working on my MERN skills
 - 💞️ I’m looking to collaborate on web development projects
-- 📫 Mail me at 201390@juitsolan.in
+- 📫 Mail me at mg2002.gupta@gmail.com
 - 💻 Website https://manavgupta27.netlify.app/
 
 <!---
